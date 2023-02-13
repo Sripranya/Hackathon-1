@@ -1,0 +1,121 @@
+*{
+    /* font-size:45px; */
+    background-color: black;
+    color:rgb(203, 26, 106);
+ } 
+ .color .weight h1{
+    
+  
+    margin-left: 150PX;
+    font-size: 99PX;
+    font-weight: 1000;
+    
+ }
+ .bag h5{
+     color: aquamarine;
+     font-size:30px;
+     margin-left: 130px;
+   
+     
+ }
+ .bag button{
+     margin-left: 15%;
+     margin-top:15%;
+     border:2px solid rgb(203, 26, 106);
+ }
+ button:hover{
+   color: aquamarine;
+     border:2px solid rgb(14, 99, 92);
+ }
+ button{
+     position: absolute;
+     top:65%;
+     border-radius: 10px;
+     font-size: medium;
+     border:black;
+     color: aquamarine;
+     padding: 15px 32px;
+     text-align: center;
+ }
+ 
+ .txt{
+     text-align:center;
+     padding-top: 6%;;
+     font-size: 35PX;
+     font-weight:900;
+ }
+ .work{
+     text-align:center;
+     font-weight: 900; 
+     font-size: 30px;
+     padding-top: 4%;
+ }
+ .text{
+     font-size:20px;
+     text-align:center;
+     font-weight:900;
+ }
+ .donor{
+     text-align:center;
+     font-size:35px;
+     font-weight:900;
+ }
+ .sustainable{
+     text-align:center;
+     font-size:20px;
+ }
+ .color{
+     color:#d9ecec;
+     font-family: var(--bs-body-font-family);
+ }
+ .column {
+     float: left;
+     width: 25%;
+     padding: 5px;
+   }
+   .row{
+     margin-left:300px;
+   }
+ .content{
+    font-size:medium;
+    font-weight:900;
+ }
+ .row::after {
+     content: "";
+     clear: both;
+     display: table;
+   }
+   .first-txt {
+     position: absolute;
+     bottom: 10px;
+     left: 10px;
+ }
+ .content1{
+     font-size:medium;
+     font-weight:900; 
+ }
+ .content{
+     font-size:medium;
+     font-weight:900; 
+ }
+ .content2{
+     font-size:medium;
+     font-weight:900; 
+ }
+.weight{
+    display: flex;
+}
+table .image{
+    width:600px;
+    height: 600px;
+    /* padding-left:30px; */
+    padding:20px;
+    border-radius: 50%;
+    margin-left:10px;
+}
+.matter{
+    width:1000px;
+    color:aquamarine;
+    margin-left: 220px;
+}
+ 
